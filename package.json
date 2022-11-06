@@ -1,0 +1,25 @@
+{
+  "name": "@russian-ref/collector",
+  "version": "1.0.0",
+  "description": "Collector of reference data from web",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antivitla/russian-ref-collector.git"
+  },
+  "keywords": [
+    "collector",
+    "russian",
+    "reference",
+    "heroes"
+  ],
+  "author": "Vitaly Kuleshin <antivitla@yandex.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antivitla/russian-ref-collector/issues"
+  },
+  "homepage": "https://github.com/antivitla/russian-ref-collector#readme"
+}
