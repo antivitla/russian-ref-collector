@@ -1,0 +1,1272 @@
+{
+  "items": [
+    {
+      "name": "Эседулла Абачев",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Esedulla_Abachev_geroy_z_specoperaciya_ykraina_1.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-esedulla-abachev",
+      "id": "geroi-z-esedulla-abachev"
+    },
+    {
+      "name": "Раиль Габдрахманов",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/gabdrahmanov_rail_ukraina_specoperaciya_donbass_smi_kontingent_vladivostok.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-rail-gabdrahmanov",
+      "id": "geroi-z-rail-gabdrahmanov"
+    },
+    {
+      "name": "Сергей Романенко",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/sergej_romanenko_ukraina_specoperaciya_minoborony_smi_kontingent_vladivosto_U1VmFaE.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-sergej-romanenko",
+      "id": "geroi-z-sergej-romanenko"
+    },
+    {
+      "name": "Вячеслав Кабицкий",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Kabickii_Vyacheslav_nailevich_z_geroi_Rossii_ykraina_specoperaciya.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-vyacheslav-kabickij",
+      "id": "geroi-z-vyacheslav-kabickij"
+    },
+    {
+      "name": "Евгений Козловский",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Kozlovskii_Evgenii_z_geroi_Rossii_ykraina_specoperaciya_1.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-evgenij-kozlovskij",
+      "id": "geroi-z-evgenij-kozlovskij"
+    },
+    {
+      "name": "Александр Крынин",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/krynin_aleksandr_smi_kontingent_specoperaciya_ukraina_donbass_rossiya.jpeg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksandr-krynin",
+      "id": "geroi-z-aleksandr-krynin"
+    },
+    {
+      "name": "Андрей Марушкин",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/andrej_marushkin_specoperaciya_ukraina_donbass_geroj_kontingent_vladivostok_smi.jpeg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-andrej-marushkin",
+      "id": "geroi-z-andrej-marushkin"
+    },
+    {
+      "name": "Денис Ягидаров",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Yagidarov_Denis_geroi_rossii_geroi_z_specoperaciya_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-denis-yagidarov",
+      "id": "geroi-z-denis-yagidarov"
+    },
+    {
+      "name": "Андрей Соловьев",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Soloviev_Andrey_geroy_z_geroi_Rossii_ykraina_specoperaciya.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-andrej-solovev",
+      "id": "geroi-z-andrej-solovev"
+    },
+    {
+      "name": "Василий Клещенко",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Kleschenko_Vasilii_geroy_z_geroi_Rossii_ykraina_specoperaciya_1.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-vasilij-kleshenko",
+      "id": "geroi-z-vasilij-kleshenko"
+    },
+    {
+      "name": "Радмир Таов",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/radmir_taov_specoperaciya_ukraina_geroi_z_donbass_letchik_kontingent.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-radmir-taov",
+      "id": "geroi-z-radmir-taov"
+    },
+    {
+      "name": "Канамат Боташев",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/botashev_kanamat_specoperaciya_ukraina_geroi_z_donbass_letchik.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-kanamat-botashev",
+      "id": "geroi-z-kanamat-botashev"
+    },
+    {
+      "name": "Петр Четкин",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Chetkin_Petr_z_geroi_Rossii_ykraina_specoperaciya.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-petr-chetkin",
+      "id": "geroi-z-petr-chetkin"
+    },
+    {
+      "name": "Юрий Борисов",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Borisov_Uriy_geroy_z_ykraina_specoperaciya_1.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-yurij-borisov",
+      "id": "geroi-z-yurij-borisov"
+    },
+    {
+      "name": "Сергей Каспрук",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Kaspryk_sergey_z_geroi_Rossii_ykraina_specoperaciya_Ka52.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-sergej-kaspruk",
+      "id": "geroi-z-sergej-kaspruk"
+    },
+    {
+      "name": "Леонид Рыжов",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Rigov_michail_geroi_rossii_ykraina_specoperaciya.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-leonid-ryzhov",
+      "id": "geroi-z-leonid-ryzhov"
+    },
+    {
+      "name": "Владимир Игнатов",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/ukraina_specoperaciya_donbass_kontingent_dnr_lnr_vladimir_ignatov.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-vladimir-ignatov",
+      "id": "geroi-z-vladimir-ignatov"
+    },
+    {
+      "name": "Иван Цевун",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/IVAN_cevun_geroy_z_geroi_Rossii_ykraina_specoperaciya_Tank.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-ivan-cevun",
+      "id": "geroi-z-ivan-cevun"
+    },
+    {
+      "name": "Азатбек Омурбеков",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Azatbek_Omyrbekov_geroy_z_geroi_Rossii_ykraina_specoperaciya_1.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-azatbek-omurbekov",
+      "id": "geroi-z-azatbek-omurbekov"
+    },
+    {
+      "name": "Александр Конорев",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/1DAD8153-5EC4-4FFB-B89D-BB03567AFF60.jpeg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksandr-konorev",
+      "id": "geroi-z-aleksandr-konorev"
+    },
+    {
+      "name": "Василий Шпильчин",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Shpilchin_vasilii_geroy_z_ykraina_specoperaciya_8gUgP2L.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-vasilij-shpilchin",
+      "id": "geroi-z-vasilij-shpilchin"
+    },
+    {
+      "name": "Михаил Крылов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Krilov_mihail_z_geroi_Rossii_ykraina_specoperaciya.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-mihail-krylov",
+      "id": "geroi-z-mihail-krylov"
+    },
+    {
+      "name": "Александр Соколов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/sokolov_Alexsander_geroi_Rossii_geroi_z_specoperaciya_ykraina_3.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksandr-sokolov",
+      "id": "geroi-z-aleksandr-sokolov"
+    },
+    {
+      "name": "Игорь Насибуллин.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Nasibulin_igor_z_geroi_Rossii_ykraina_specoperaciya_1.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-igor-nasibullin",
+      "id": "geroi-z-igor-nasibullin"
+    },
+    {
+      "name": "Александр Ананичев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/photo_2022-10-06_13.47.00.jpeg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksandr-ananichev",
+      "id": "geroi-z-aleksandr-ananichev"
+    },
+    {
+      "name": "Роберт Байрамбеков.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Bairambekov_Robert_geroi_z_specoperaciya_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-robert-bajrambekov",
+      "id": "geroi-z-robert-bajrambekov"
+    },
+    {
+      "name": "Вадим Гавриков.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Gavrikov_vadim_geroy_z_ykraina_specoperaciya_2.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-vadim-gavrikov",
+      "id": "geroi-z-vadim-gavrikov"
+    },
+    {
+      "name": "Юнус Умархаджиев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Ymarhadgiev_unus_geroy_z_ykraina_specoperaciya_1.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-yunus-umarhadzhiev",
+      "id": "geroi-z-yunus-umarhadzhiev"
+    },
+    {
+      "name": "Анатолий Ванчугов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Vanhcygov_Anatolii_geroy_z_geroi_Rossii_ykraina_specoperaciya_1.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-anatolij-vanchugov",
+      "id": "geroi-z-anatolij-vanchugov"
+    },
+    {
+      "name": "Ольга Качура.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Korsa_Olga_Kachura_geroi_z_specoperaciya_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-olga-kachura",
+      "id": "geroi-z-olga-kachura"
+    },
+    {
+      "name": "Роман Брикульский.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Brikylski_Roman_geroy_z_ykraina_specoperaciya.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-roman-brikulskij",
+      "id": "geroi-z-roman-brikulskij"
+    },
+    {
+      "name": "Алексей Гостюхин.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Gostyhin_Alexey_geroy_z_geroi_Rossii_ykraina_specoperaciya_1.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksej-gostyuhin",
+      "id": "geroi-z-aleksej-gostyuhin"
+    },
+    {
+      "name": "Аркадий Смольников.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Arkadi_smolnikov_geroy_z_ykraina_specoperaciya_1.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-arkadij-smolnikov",
+      "id": "geroi-z-arkadij-smolnikov"
+    },
+    {
+      "name": "Артем Салынов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_salynov_ukraina_1.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-artem-salynov",
+      "id": "geroi-z-artem-salynov"
+    },
+    {
+      "name": "Антон Киселев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Kiselev_Anton_geroi_z_ykraina_specoperaciya_1.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-anton-kiselev",
+      "id": "geroi-z-anton-kiselev"
+    },
+    {
+      "name": "Сергей Ибрагимов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_ibragimov_sergey_ukraina_1.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-sergej-ibragimov",
+      "id": "geroi-z-sergej-ibragimov"
+    },
+    {
+      "name": "Андрей Митяшин.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/mityashin_andrey_geroy_z_ykraina_specoperaciya_1.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-andrej-mityashin",
+      "id": "geroi-z-andrej-mityashin"
+    },
+    {
+      "name": "Сергей Липченко.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/lipchenko_Sergey_geroy_z_ykraina_specoperaciya_1.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-sergej-lipchenko",
+      "id": "geroi-z-sergej-lipchenko"
+    },
+    {
+      "name": "Глеб Бочкарев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Bochkarev_gleb_geroy_z_ykraina_specoperaciya_1.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-gleb-bochkarev",
+      "id": "geroi-z-gleb-bochkarev"
+    },
+    {
+      "name": "Андрей Скачков.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/skachkov_andrey_geroy_z_ykraina_specoperaciya.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-andrej-skachkov",
+      "id": "geroi-z-andrej-skachkov"
+    },
+    {
+      "name": "Хазби Макоев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Makoev_hazbi_geroy_z_ykraina_specoperaciya_1.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-hazbi-makoev",
+      "id": "geroi-z-hazbi-makoev"
+    },
+    {
+      "name": "Илдар Ханнанов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Hannanov_Ildar_Zylfirovich_geroy_z_ykraina_specoperaciya.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-ildar-hannanov",
+      "id": "geroi-z-ildar-hannanov"
+    },
+    {
+      "name": "Сайран Жусупов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_zhusupov_sairan_ukraina_1.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-sajran-zhusupov",
+      "id": "geroi-z-sajran-zhusupov"
+    },
+    {
+      "name": "Василий Верхушкин.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Verhushkin_Vasili_geroi_z_specoperaciya_ykraina_1.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-vasilij-verhushkin",
+      "id": "geroi-z-vasilij-verhushkin"
+    },
+    {
+      "name": "Никита Желудков.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Jeludkov_Nikita_geroi_z_specoperaciya_ykraina_1.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-nikita-zheludkov",
+      "id": "geroi-z-nikita-zheludkov"
+    },
+    {
+      "name": "Максим Кайтанов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Kaitanov_Maksim_geroi_z_specoperaciya_ykraina_1.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-maksim-kajtanov",
+      "id": "geroi-z-maksim-kajtanov"
+    },
+    {
+      "name": "Казбек Алимурадов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_alimuradov_kazbek_ukraina_1.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-kazbek-alimuradov",
+      "id": "geroi-z-kazbek-alimuradov"
+    },
+    {
+      "name": "Сергей Моргунов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_morgunov_sergey_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-sergej-morgunov",
+      "id": "geroi-z-sergej-morgunov"
+    },
+    {
+      "name": "Роман Кутузов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_kutuzov_roman_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-roman-kutuzov",
+      "id": "geroi-z-roman-kutuzov"
+    },
+    {
+      "name": "Эдуард Дьяконов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/dijakonov_eduard_geroy_z_geroi_Rossii_ykraina_specoperaciya_1.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-eduard-dyakonov",
+      "id": "geroi-z-eduard-dyakonov"
+    },
+    {
+      "name": "Алексей Калмыков.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Kalmukov_Alexsey_geroy_z_geroi_Rossii_ykraina_specoperaciya_3.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksej-kalmykov",
+      "id": "geroi-z-aleksej-kalmykov"
+    },
+    {
+      "name": "Дмитрий Семенов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Semenov_dmitrii_geroy_z_geroi_Rossii_ykraina_specoperaciya.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-dmitrij-semenov",
+      "id": "geroi-z-dmitrij-semenov"
+    },
+    {
+      "name": "Константин Вшивков.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Vhivkov_Konstantin_geroi_z_specoperaciya_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-konstantin-vshivkov",
+      "id": "geroi-z-konstantin-vshivkov"
+    },
+    {
+      "name": "Александр Солопов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_solopov_alexandr_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksandr-solopov",
+      "id": "geroi-z-aleksandr-solopov"
+    },
+    {
+      "name": "Сергей Скородинский.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_skorodinskiy_sergey_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-sergej-skorodinskij",
+      "id": "geroi-z-sergej-skorodinskij"
+    },
+    {
+      "name": "Илья Сизов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Sizov_iliya_geroy_z_geroi_Rossii_ykraina_specoperaciya.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-ilya-sizov",
+      "id": "geroi-z-ilya-sizov"
+    },
+    {
+      "name": "Алексей Осокин.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Osokin_alexsey_geroy_z_geroi_Rossii_ykraina_specoperaciya.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksej-osokin",
+      "id": "geroi-z-aleksej-osokin"
+    },
+    {
+      "name": "Тамерлан Ильгамов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Tamerlan_Ilgamov_geroi_Rossii_geroi_z_specoperaciya_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-tamerlan-ilgamov",
+      "id": "geroi-z-tamerlan-ilgamov"
+    },
+    {
+      "name": "Рамазан Хадживахидов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_hajivahidov_ramazan_ukraina.JPG",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-ramazan-hadzhivahidov",
+      "id": "geroi-z-ramazan-hadzhivahidov"
+    },
+    {
+      "name": "Рамиль Даньяров.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_danyarov_ramil_ukraina.JPG",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-ramil-danyarov",
+      "id": "geroi-z-ramil-danyarov"
+    },
+    {
+      "name": "Иван Юртаев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_urtaev_ivan_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-ivan-yurtaev",
+      "id": "geroi-z-ivan-yurtaev"
+    },
+    {
+      "name": "Иван Пахомов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Pahomov_Ivan_geroi_z_specoperaciya_ykraina_2.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-ivan-pahomov",
+      "id": "geroi-z-ivan-pahomov"
+    },
+    {
+      "name": "Евгений Ольков.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Olkov_Evgeni_geroi_z_specoperaciya_ykraina_3.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-evgenij-olkov",
+      "id": "geroi-z-evgenij-olkov"
+    },
+    {
+      "name": "Петр Федоткин.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_fedotkin_petr_ukraina_4.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-petr-fedotkin",
+      "id": "geroi-z-petr-fedotkin"
+    },
+    {
+      "name": "Александр Шипов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Shipov_aleksandr_geroy_z_specoperaciya_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksandr-shipov",
+      "id": "geroi-z-aleksandr-shipov"
+    },
+    {
+      "name": "Николай Паскарь.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Paskar_Nikolai_geroi_z_specoperaciya_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-nikolaj-paskar",
+      "id": "geroi-z-nikolaj-paskar"
+    },
+    {
+      "name": "Игорь Ляпунов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Lyapynov_igor_geroi_z_specoperaciya_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-igor-lyapunov",
+      "id": "geroi-z-igor-lyapunov"
+    },
+    {
+      "name": "Станислав Хохлов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Hohlov_stanislav_geroy_z_specoperaciya_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-stanislav-hohlov",
+      "id": "geroi-z-stanislav-hohlov"
+    },
+    {
+      "name": "Михаил Персаев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/WhatsApp_Image_2022-08-10_at_12.09.00.jpeg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-mihail-persaev",
+      "id": "geroi-z-mihail-persaev"
+    },
+    {
+      "name": "Мерген Донгак.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Mergen_Dongak_geroy_z_specoperaciya_ykraina_4.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-mergen-dongak",
+      "id": "geroi-z-mergen-dongak"
+    },
+    {
+      "name": "Борис Журавлев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Juravlev_boris_geroy_z_specoperaciya_ykraina_3.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-boris-zhuravlev",
+      "id": "geroi-z-boris-zhuravlev"
+    },
+    {
+      "name": "Андрей Лебедев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Lebedev_Andrey_geroi_z_specoperaciya_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-andrej-lebedev",
+      "id": "geroi-z-andrej-lebedev"
+    },
+    {
+      "name": "Александр Проскурин.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/2022-08-09_11.48.55.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksandr-proskurin",
+      "id": "geroi-z-aleksandr-proskurin"
+    },
+    {
+      "name": "Анатолий Лукин",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Anatoliy_Lukin_geroi_z_ykraina_3.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/anatolij-lukin",
+      "id": "anatolij-lukin"
+    },
+    {
+      "name": "Даниель Егоров.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_egorov_daniel_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-daniel-egorov",
+      "id": "geroi-z-daniel-egorov"
+    },
+    {
+      "name": "Николай Михайлов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Mihailov_Nikolai_geroi_z_specoperaciya_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-nikolaj-mihajlov",
+      "id": "geroi-z-nikolaj-mihajlov"
+    },
+    {
+      "name": "Юрий Овсянников.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_ovsyannikov_yriy_ukraina.JPG",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-yurij-ovsyannikov",
+      "id": "geroi-z-yurij-ovsyannikov"
+    },
+    {
+      "name": "Алексей Быстрик.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_bistrik_aleksey_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksej-bystrik",
+      "id": "geroi-z-aleksej-bystrik"
+    },
+    {
+      "name": "Александр Попов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/eroi_z_popov_aleksandr_ukraina_2.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksandr-popov",
+      "id": "geroi-z-aleksandr-popov"
+    },
+    {
+      "name": "Александр Белоглазов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_beloglazov_aleksandr_polkovnik_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksandr-beloglazov",
+      "id": "geroi-z-aleksandr-beloglazov"
+    },
+    {
+      "name": "Вячеслав Водяной.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_vodinoi_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-vyacheslav-vodyanoj",
+      "id": "geroi-z-vyacheslav-vodyanoj"
+    },
+    {
+      "name": "Сергей Чернявский.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/photo_2022-07-16_14-44-20_2.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-sergej-chernyavskij",
+      "id": "geroi-z-sergej-chernyavskij"
+    },
+    {
+      "name": "Евгений Комаров.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/photo_2022-07-16_14-44-20.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-evgenij-komarov",
+      "id": "geroi-z-evgenij-komarov"
+    },
+    {
+      "name": "Руслан Ахмедов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Ruslan_ahmedov_geroi_z_specoperaciya_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-ruslan-ahmedov",
+      "id": "geroi-z-ruslan-ahmedov"
+    },
+    {
+      "name": "Владимир Шапхаев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_shaphaev_vladimir_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-vladimir-shaphaev",
+      "id": "geroi-z-vladimir-shaphaev"
+    },
+    {
+      "name": "Вадим Герасимов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_gerasimov_vadim_sergeevich_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-vadim-gerasimov",
+      "id": "geroi-z-vadim-gerasimov"
+    },
+    {
+      "name": "Андрей Путилин.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Putilin_Andrey_geroi_z_specoperaciya_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-andrej-putilin",
+      "id": "geroi-z-andrej-putilin"
+    },
+    {
+      "name": "Рустам Сайфуллин.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_saifullin_rustam_galievich_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-rustam-sajfullin",
+      "id": "geroi-z-rustam-sajfullin"
+    },
+    {
+      "name": "Артур Жуков.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_zhukov_artur_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-artur-zhukov",
+      "id": "geroi-z-artur-zhukov"
+    },
+    {
+      "name": "Евгений Ус.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/YS_Evgeniy_geroi_z_specoperaciya_ykraina_1.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-evgenij-us",
+      "id": "geroi-z-evgenij-us"
+    },
+    {
+      "name": "Виталий Сипливый",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_siplivyi_vitaliy_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-vitalij-siplivyj",
+      "id": "geroi-z-vitalij-siplivyj"
+    },
+    {
+      "name": "Алексей Архипов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_arhipov_aleksey_ukraina_3-thumbnail-2000x2000-80.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksej-arhipov",
+      "id": "geroi-z-aleksej-arhipov"
+    },
+    {
+      "name": "Виталий Хисматуллин.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/hismatylin_Vitalii_geroy_z_specoperaciya_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-vitalij-hismatullin",
+      "id": "geroi-z-vitalij-hismatullin"
+    },
+    {
+      "name": "Иван Бухаров.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Buharov_Ivan_geroy_z_specoperaciya_ykraina_2.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-ivan-buharov",
+      "id": "geroi-z-ivan-buharov"
+    },
+    {
+      "name": "Валентин Кузаков",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_kuzakov_valentin_ukraina.JPG",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-valentin-kuzakov",
+      "id": "geroi-z-valentin-kuzakov"
+    },
+    {
+      "name": "Андрей Хасанов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_hasanov_andrey_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-andrej-hasanov",
+      "id": "geroi-z-andrej-hasanov"
+    },
+    {
+      "name": "Артём Гладский.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_Gladskiy_artem_ukraina.JPG",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-artyom-gladskij",
+      "id": "geroi-z-artyom-gladskij"
+    },
+    {
+      "name": "Давид Асаев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_asaev_david_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-david-asaev",
+      "id": "geroi-z-david-asaev"
+    },
+    {
+      "name": "Андрей Иванов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/kapitan_ivanov_andrey_geroi_z_ukraina_.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-andrej-ivanov",
+      "id": "geroi-z-andrej-ivanov"
+    },
+    {
+      "name": "Хусейн Гадаев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Gadaev_Hysein_geroy_z_specoperaciya_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-husejn-gadaev",
+      "id": "geroi-z-husejn-gadaev"
+    },
+    {
+      "name": "Дмитрий Сигулин.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_sigulin_dmitriy_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-dmitrij-sigulin",
+      "id": "geroi-z-dmitrij-sigulin"
+    },
+    {
+      "name": "Дмитрий Каурдаков.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_kaurdakov_dmitriy_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-dmitrij-kaurdakov",
+      "id": "geroi-z-dmitrij-kaurdakov"
+    },
+    {
+      "name": "Владислав Гущерев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_gusherev_vladislav_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-vladislav-gusherev",
+      "id": "geroi-z-vladislav-gusherev"
+    },
+    {
+      "name": "Антон Поляков.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_polyakov_anton_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-andrej-polyakov",
+      "id": "geroi-z-andrej-polyakov"
+    },
+    {
+      "name": "Александр Савченко.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_savchenko_aleksandr_ukraina_2.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksandr-savchenko",
+      "id": "geroi-z-aleksandr-savchenko"
+    },
+    {
+      "name": "Расим Ильязов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_ilyazov_rasim_ukraina_2.JPG",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-rasim-ilyazov",
+      "id": "geroi-z-rasim-ilyazov"
+    },
+    {
+      "name": "Роман Каштаков.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_kashtakov_roman_ukraina_3.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-roman-kashtakov",
+      "id": "geroi-z-roman-kashtakov"
+    },
+    {
+      "name": "Станислав Джиоев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_jioev_stanislav_ukraina_2.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-stanislav-dzhioev",
+      "id": "geroi-z-stanislav-dzhioev"
+    },
+    {
+      "name": "Егор Болдырев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_boldyrev_egor_ukraina_2.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-egor-boldyrev",
+      "id": "geroi-z-egor-boldyrev"
+    },
+    {
+      "name": "Альберт Усманов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_usmanov_albert_ukraina.JPG",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-albert-usmanov",
+      "id": "geroi-z-albert-usmanov"
+    },
+    {
+      "name": "Алексей Литвененко.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Litvinenko_alexsey_geroy_z_specoperaciya_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksej-litvenenko",
+      "id": "geroi-z-aleksej-litvenenko"
+    },
+    {
+      "name": "Владимир Носов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_nosov_vladimir_ukraina__2.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-vladimir-nosov",
+      "id": "geroi-z-vladimir-nosov"
+    },
+    {
+      "name": "Николай Куминов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Kuminov_Nikolai_geroy_z_specoperaciya_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-nikolaj-kuminov",
+      "id": "geroi-z-nikolaj-kuminov"
+    },
+    {
+      "name": "Евгений Крылов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_krylov_evgeniy_ukraina.JPG",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-evgenij-krylov",
+      "id": "geroi-z-evgenij-krylov"
+    },
+    {
+      "name": "Алексей Коноваленко.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_konovalenko_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksej-konovalenko",
+      "id": "geroi-z-aleksej-konovalenko"
+    },
+    {
+      "name": "Игорь Гуралев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_guralev_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-igor-guralev",
+      "id": "geroi-z-igor-guralev"
+    },
+    {
+      "name": "Ян Волков.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Volkov_yan_geroy_z_specoperaciya_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-yan-volkov",
+      "id": "geroi-z-yan-volkov"
+    },
+    {
+      "name": "Алексей Гапченко.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_gapcheko_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksej-gapchenko",
+      "id": "geroi-z-aleksej-gapchenko"
+    },
+    {
+      "name": "Кирилл Балаганский.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_balaganskiy_kirill_ukraina_2.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-kirill-balaganskij",
+      "id": "geroi-z-kirill-balaganskij"
+    },
+    {
+      "name": "Алексей Гришин.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_grishin_alexey_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksej-grishin",
+      "id": "geroi-z-aleksej-grishin"
+    },
+    {
+      "name": "Дмитрий Дмитрук.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_dmitruk_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-dmitrij-dmitruk",
+      "id": "geroi-z-dmitrij-dmitruk"
+    },
+    {
+      "name": "Денис Подобедов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Podobedov_Denis_Geroi_z_Ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-denis-podobedov",
+      "id": "geroi-z-denis-podobedov"
+    },
+    {
+      "name": "Виктор Визулайнен.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Vizulainen_Viktor_Geroi_z_Ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-viktor-vizulajnen",
+      "id": "geroi-z-viktor-vizulajnen"
+    },
+    {
+      "name": "Иван Теплых.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_teplyh_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-ivan-teplyh",
+      "id": "geroi-z-ivan-teplyh"
+    },
+    {
+      "name": "Артур Шихжамалов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Shijjamalov_Artur_Geroi_z_Ykraina.jpeg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-artur-shihzhamalov",
+      "id": "geroi-z-artur-shihzhamalov"
+    },
+    {
+      "name": "Сергей Овчаренко.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/OVcharenko_Sergei_Geroi_z_Ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-sergej-ovcharenko",
+      "id": "geroi-z-sergej-ovcharenko"
+    },
+    {
+      "name": "Алексей Писарев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_pisarev_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksej-pisarev",
+      "id": "geroi-z-aleksej-pisarev"
+    },
+    {
+      "name": "Виталий Карнаев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_karnaev_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-vitalij-karnaev",
+      "id": "geroi-z-vitalij-karnaev"
+    },
+    {
+      "name": "Камил Салимханов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_salimhanov_kamil_ukraina_3.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-kamil-salimhanov",
+      "id": "geroi-z-kamil-salimhanov"
+    },
+    {
+      "name": "Алексей Зотеев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_zoteev_aleksandr_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksej-zoteev",
+      "id": "geroi-z-aleksej-zoteev"
+    },
+    {
+      "name": "Родион Попов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_popov_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-rodion-popov",
+      "id": "geroi-z-rodion-popov"
+    },
+    {
+      "name": "Иван Головко.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_golovko_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-ivan-golovko",
+      "id": "geroi-z-ivan-golovko"
+    },
+    {
+      "name": "Дементий Коломенский.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_Kolomenskiy_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-dementij-kolomenskij",
+      "id": "geroi-z-dementij-kolomenskij"
+    },
+    {
+      "name": "Евгений Зеленов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_zelenov_evgeniy_ukraina_3.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-evgenij-zelenov",
+      "id": "geroi-z-evgenij-zelenov"
+    },
+    {
+      "name": "Дмитрий Марков.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_markov_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-dmitrij-markov",
+      "id": "geroi-z-dmitrij-markov"
+    },
+    {
+      "name": "Антон Струев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_struev_anton_ukraina_3.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-anton-struev",
+      "id": "geroi-z-anton-struev"
+    },
+    {
+      "name": "Иван Фомин.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/photo_2022-06-11_18-03-06.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-ivan-fomin",
+      "id": "geroi-z-ivan-fomin"
+    },
+    {
+      "name": "Иван Козловцев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Kozlovcev_IVAN_geroy_z_specoperaciya_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-ivan-kozlovcev",
+      "id": "geroi-z-ivan-kozlovcev"
+    },
+    {
+      "name": "Сергей Ершов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Ershov_Sergey_geroy_z_specoperaciya_ykraina_5.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-sergej-ershov",
+      "id": "geroi-z-sergej-ershov"
+    },
+    {
+      "name": "Антон Мягченков.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Myagchenkov_Anton_geroi_z_specoperaciya_ykraina_2.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-anton-myagchenkov",
+      "id": "geroi-z-anton-myagchenkov"
+    },
+    {
+      "name": "Данил Доможилкин.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_domozhilkin_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-danil-domozhilkin",
+      "id": "geroi-z-danil-domozhilkin"
+    },
+    {
+      "name": "Кирилл Бурковцев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_burkovcev_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-kirill-burkovcev",
+      "id": "geroi-z-kirill-burkovcev"
+    },
+    {
+      "name": "Илья Дехтярь.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Dehtyar_ilya_geroi_Z_ykraina_specoperacia_2.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-ilya-dehtyar",
+      "id": "geroi-z-ilya-dehtyar"
+    },
+    {
+      "name": "Николай Артемов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Geroi_z_artemov_nikolai_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-nikolaj-artemov",
+      "id": "geroi-z-nikolaj-artemov"
+    },
+    {
+      "name": "Антон Левин.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_levin_anton_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-anton-levin",
+      "id": "geroi-z-anton-levin"
+    },
+    {
+      "name": "Евгений Коробов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Korobov_Evgeniy_geroi_z_specoperaciya_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-evgenij-korobov",
+      "id": "geroi-z-evgenij-korobov"
+    },
+    {
+      "name": "Александр Лебедев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_lebedev_aleksandr_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksandr-lebedev",
+      "id": "geroi-z-aleksandr-lebedev"
+    },
+    {
+      "name": "Валерий Жуков.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Jykov_Valeriy_geroy_z_specoperaciya_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-valerij-zhukov",
+      "id": "geroi-z-valerij-zhukov"
+    },
+    {
+      "name": "Роман Демурчиев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_demurchiev_roman_ukraina_2.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-roman-demurchiev",
+      "id": "geroi-z-roman-demurchiev"
+    },
+    {
+      "name": "Владимир Поляков.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_polyakov_alexandr_ukraina_2.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-vladimir-polyakov",
+      "id": "geroi-z-vladimir-polyakov"
+    },
+    {
+      "name": "Андрей Клюшников.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Klyushnikov_Andrey_geroy_z_specoperaciya_ykraina_2.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-andrej-klyushnikov",
+      "id": "geroi-z-andrej-klyushnikov"
+    },
+    {
+      "name": "Александр Кузьмин.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_kuzmin_alexandr_ukraina__2.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksandr-kuzmin",
+      "id": "geroi-z-aleksandr-kuzmin"
+    },
+    {
+      "name": "Сергей Марусов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_marusov_sergey_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-sergej-marusov",
+      "id": "geroi-z-sergej-marusov"
+    },
+    {
+      "name": "Александр Таран.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Alexsander_Taran_geroi_z_specoperaciya_ykraina_2.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksandr-taran",
+      "id": "geroi-z-aleksandr-taran"
+    },
+    {
+      "name": "Арсалан Мункуев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Mynkyev_Arsalan_geroi_z_specoperaciya_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-arsalan-munkuev",
+      "id": "geroi-z-arsalan-munkuev"
+    },
+    {
+      "name": "Александр Голубев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_golubev_aleksandr_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksandr-golubev",
+      "id": "geroi-z-aleksandr-golubev"
+    },
+    {
+      "name": "Андрей Чернышев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_chernyshev_andrey_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-andrej-chernyshev",
+      "id": "geroi-z-andrej-chernyshev"
+    },
+    {
+      "name": "Станислав Ким.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Kim_Stanislav_geroi_z_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-stanislav-kim",
+      "id": "geroi-z-stanislav-kim"
+    },
+    {
+      "name": "Дмитрий Почесный.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Pochesniy_dmitriy_geroi_z_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-dmitrij-pochesnyj",
+      "id": "geroi-z-dmitrij-pochesnyj"
+    },
+    {
+      "name": "Сергей Козин.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Kozin_sergey_Geroi_Z_specoperaciya_ykraina_3.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-sergej-kozin",
+      "id": "geroi-z-sergej-kozin"
+    },
+    {
+      "name": "Иван Лалла.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Lalla_Ivan_geroy_z_specoperaciya_ykraina_3.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-ivan-lalla",
+      "id": "geroi-z-ivan-lalla"
+    },
+    {
+      "name": "Сергей Чёрный.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Cherniy_sergey_geroi_z_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-sergej-chyornyj",
+      "id": "geroi-z-sergej-chyornyj"
+    },
+    {
+      "name": "Дмитрий Абакумов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Abakumov_dmitriy_geroi_z_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-dmitrij-abakumov",
+      "id": "geroi-z-dmitrij-abakumov"
+    },
+    {
+      "name": "Игорь Корнеев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Korneev_igor_geroy_Z_specoperaciya_ykraina_2.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-igor-korneev",
+      "id": "geroi-z-igor-korneev"
+    },
+    {
+      "name": "Алексей Акимов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Akimov_Aleksey_geroy_z_specoperaciya_ykraina_5.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksej-akimov",
+      "id": "geroi-z-aleksej-akimov"
+    },
+    {
+      "name": "Татьяна Парамонова.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Tatiana_Paramonova_specoperacia_geroi_Z_ykraina_4.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-tatyana-paramonova",
+      "id": "geroi-z-tatyana-paramonova"
+    },
+    {
+      "name": "Андраник Гаспарян.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Gasparyan_Andranik_geroy_z_specoperaciya_ykraina_5.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-andranik-gasparyan",
+      "id": "geroi-z-andranik-gasparyan"
+    },
+    {
+      "name": "Сергей Губарев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Geroi_z_gubarev_sergey_ukraina_3.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-sergej-gubarev",
+      "id": "geroi-z-sergej-gubarev"
+    },
+    {
+      "name": "Андрей Шаповалов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Shapovalov_andrey_geroy_z_specoperaciya_ykraina_2.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-andrej-shapovalov",
+      "id": "geroi-z-andrej-shapovalov"
+    },
+    {
+      "name": "Иван Величко.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Velichko_ivan_geroi_z_ykraina_specoperaciya_2.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-ivan-velichko",
+      "id": "geroi-z-ivan-velichko"
+    },
+    {
+      "name": "Андрей Шатохин.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Shatohin_Andrey_geroi_Z_ykraina_MTLB_2.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-andrej-shatohin",
+      "id": "geroi-z-andrej-shatohin"
+    },
+    {
+      "name": "Константин Салихов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Salihov_konstantin_geroi_z_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-konstantin-salihov",
+      "id": "geroi-z-konstantin-salihov"
+    },
+    {
+      "name": "Иван Матюшкин.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Ivan_Matyushkin_geroi_z_ykraina_3.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-ivan-matyushkin",
+      "id": "geroi-z-ivan-matyushkin"
+    },
+    {
+      "name": "Кристина Ким.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Kim_kristina_geroi_Z_ykraina_.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-kristina-kim",
+      "id": "geroi-z-kristina-kim"
+    },
+    {
+      "name": "Андрей Фроленков.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Frolenkov_Andrei_geroi_z_ukraina_5.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-andrej-frolenkov",
+      "id": "geroi-z-andrej-frolenkov"
+    },
+    {
+      "name": "Денис Литвинов",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Geroi_Z_Litvinov_ukraina_3.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-denis-litvinov",
+      "id": "geroi-z-denis-litvinov"
+    },
+    {
+      "name": "Тахир Урунов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Geroi_z_Urunov_Tahir_Ukraina_5.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-tahir-urunov",
+      "id": "geroi-z-tahir-urunov"
+    },
+    {
+      "name": "Дмитрий Гарбуз.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_Garbuz_Dmitriy_Ukraina_6.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-dmitrij-garbuz",
+      "id": "geroi-z-dmitrij-garbuz"
+    },
+    {
+      "name": "Артём Кабаев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Geroi_z_Kabaev_Artem_ukraina_3.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-artyom-kabaev",
+      "id": "geroi-z-artyom-kabaev"
+    },
+    {
+      "name": "Дамир Гилемханов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_gelimhanov_damir_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-damir-gilemhanov",
+      "id": "geroi-z-damir-gilemhanov"
+    },
+    {
+      "name": "Владислав Молошняк.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Geroi_Z_Moloshnyak_Vladislav_Ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-vladislav-moloshnyak",
+      "id": "geroi-z-vladislav-moloshnyak"
+    },
+    {
+      "name": "Руслан Гилёв.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Geroi_z_Gilev_Ruslan_Ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-ruslan-gilyov",
+      "id": "geroi-z-ruslan-gilyov"
+    },
+    {
+      "name": "Яков Петрунин.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_z_petrunin_jakov_ukraina_2.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-yakov-petrunin",
+      "id": "geroi-z-yakov-petrunin"
+    },
+    {
+      "name": "Сергей Панов",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_panov.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-sergej-panov",
+      "id": "geroi-z-sergej-panov"
+    },
+    {
+      "name": "Денис Лаптев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Denis_Laptev_geroi_z_specoperaciya_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-denis-laptev",
+      "id": "geroi-z-denis-laptev"
+    },
+    {
+      "name": "Владимир Алекса.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_alekca_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-vladimir-aleksa",
+      "id": "geroi-z-vladimir-aleksa"
+    },
+    {
+      "name": "Никита Югансон.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/hero_Z_uganson.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-nikita-yuganson",
+      "id": "geroi-z-nikita-yuganson"
+    },
+    {
+      "name": "Андрей Палий.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/hero_Z_paliy_ukraina_voina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-andrej-palij",
+      "id": "geroi-z-andrej-palij"
+    },
+    {
+      "name": "Павел Слизько",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_slizko.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-pavel-slizko",
+      "id": "geroi-z-pavel-slizko"
+    },
+    {
+      "name": "Тимур Тонтоев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/hero_Z_tontoev_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-timur-tontoev",
+      "id": "geroi-z-timur-tontoev"
+    },
+    {
+      "name": "Георгий Дудоров.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Dudorov_Georgiy_geroy_z_specoperaciya_ykraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-georgij-dudorov",
+      "id": "geroi-z-georgij-dudorov"
+    },
+    {
+      "name": "Владимир Жога.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/hero_Z_dgoga.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-vladimir-zhoga",
+      "id": "geroi-z-vladimir-zhoga"
+    },
+    {
+      "name": "Максим Песковой.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/hero_Z_peskovoy_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-maksim-peskovoj",
+      "id": "geroi-z-maksim-peskovoj"
+    },
+    {
+      "name": "Дамир Исламов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_islamov.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-damir-islamov",
+      "id": "geroi-z-damir-islamov"
+    },
+    {
+      "name": "Алексей Лёвкин",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/hero_Z_levkin.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksej-lyovkin",
+      "id": "geroi-z-aleksej-lyovkin"
+    },
+    {
+      "name": "Алексей Панкратов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_pankratov.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-aleksej-pankratov",
+      "id": "geroi-z-aleksej-pankratov"
+    },
+    {
+      "name": "Юрий Нимченко",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/hero_Z_nimchenko.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-yurij-nimchenko",
+      "id": "geroi-z-yurij-nimchenko"
+    },
+    {
+      "name": "Максим Концов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_konzov.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-maksim-koncov",
+      "id": "geroi-z-maksim-koncov"
+    },
+    {
+      "name": "Роман Кобец.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/hero_Z_kobez.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-roman-kobec",
+      "id": "geroi-z-roman-kobec"
+    },
+    {
+      "name": "Иван Болдырев",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_boldirev.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-ivan-boldyrev",
+      "id": "geroi-z-ivan-boldyrev"
+    },
+    {
+      "name": "Виктор Дудин",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/hero_Z_dudin.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-viktor-dudin",
+      "id": "geroi-z-viktor-dudin"
+    },
+    {
+      "name": "Денис Шишов",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/hero_Z_shishov.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/geroi-z-denis-shishov",
+      "id": "geroi-z-denis-shishov"
+    },
+    {
+      "name": "Ибрагимхалил Гаджиев.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_Gajiev_terminator_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/ibragimhalil-gadzhiev-dagestanskij-terminator",
+      "id": "ibragimhalil-gadzhiev-dagestanskij-terminator"
+    },
+    {
+      "name": "Антон Михайлусь.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_mihailus.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/anton-mihajlus-geroyami-ne-rozhdayutsya",
+      "id": "anton-mihajlus-geroyami-ne-rozhdayutsya"
+    },
+    {
+      "name": "Антон Демидов.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_demidov.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/anton-demidov-pamyati-predkov-dostoin",
+      "id": "anton-demidov-pamyati-predkov-dostoin"
+    },
+    {
+      "name": "Евгений Балухта.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/hero_Z_baluhta.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/evgenij-baluhta-pobezhdaet-tot-kto-menshe-sebya-zhaleet",
+      "id": "evgenij-baluhta-pobezhdaet-tot-kto-menshe-sebya-zhaleet"
+    },
+    {
+      "name": "Илья Перепелкин.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_perepjolkin.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/ilya-perepelkin-krylatyj-zashitnik-mirnogo-neba",
+      "id": "ilya-perepelkin-krylatyj-zashitnik-mirnogo-neba"
+    },
+    {
+      "name": "Екатерина Иванова.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_ivanova_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/ekaterina-ivanova",
+      "id": "ekaterina-ivanova"
+    },
+    {
+      "name": "Мария Мирошниченко.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/geroi_Z_miroshnichenko_ukraina.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/mariya-miroshnichenko",
+      "id": "mariya-miroshnichenko"
+    },
+    {
+      "name": "Алексей Бернгард.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/Berngard_Aleksey_Geroi_z_ukraina_2.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/aleksej-berngard",
+      "id": "aleksej-berngard"
+    },
+    {
+      "name": "Антон Старостин.",
+      "photo": "https://storage.yandexcloud.net/kontingent-media/images/posts/hero_Z_starostin.jpg",
+      "url": "https://kontingent.press/api/v1/posts/post/anton-starostin",
+      "id": "anton-starostin"
+    }
+  ],
+  "limit": 12,
+  "index": 0
+}

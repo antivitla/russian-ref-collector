@@ -10,16 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/antivitla/russian-ref-collector.git"
   },
-  "keywords": [
-    "collector",
-    "russian",
-    "reference",
-    "heroes"
-  ],
   "author": "Vitaly Kuleshin <antivitla@yandex.ru>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/antivitla/russian-ref-collector/issues"
-  },
-  "homepage": "https://github.com/antivitla/russian-ref-collector#readme"
+  "dependencies": {
+    "@russian-ref/awards": "^1.2.0",
+    "@russian-ref/ranks": "^1.1.0",
+    "vue": "^3.2.45"
+  }
 }
