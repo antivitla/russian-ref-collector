@@ -32,9 +32,19 @@ export class Pageable {
     return this.pages[this.index] || [];
   }
 
+  get total () {
+    return this.pages.length;
+  }
+
+  get isFirstPage () {
+    return this.index === 0;
+  }
+
+  get isLastPage () {
+    return this.index >= this.pages.length - 1;
+  }  
+
   setLimit (limit) {
-    let min = this.index * this.limit;
-    let max = min + this.limit;
     this.limit = limit;
     this.pages = Pageable.from(this.items, this.limit);
     this.index = 0;
@@ -96,14 +106,6 @@ export class AsyncPageable {
 
   get items () {
     return this.pageable.items;
-  }
-
-  get isFirstPage () {
-    return this.index === 0;
-  }
-
-  get isLastPage () {
-    return this.index >= this.pages.length - 1;
   }
 
   async getPage (type) {

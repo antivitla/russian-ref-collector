@@ -4,6 +4,7 @@ import {
   getRemoteDocument,
   getRootFragment,
 } from '../../utils/resource.js';
+import ComponentCardHeroAwards from '../card-hero-awards.js';
 import ComponentCardHeroImage from '../card-hero-image.js';
 import ComponentResource from '../resource.js';
 
@@ -42,6 +43,7 @@ export default {
     </ComponentResource>
   `,
   components: {
+    ComponentCardHeroAwards,
     ComponentCardHeroImage,
     ComponentResource,
   },

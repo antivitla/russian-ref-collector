@@ -1,7 +1,7 @@
 export default {
   template: /*html*/`
     <li class="card">
-      <slot name="card" :card="card">
+      <slot name="card" :card="card" :card-options="cardOptions">
         <h3>{{ card.name }}</h3>
         <p>{{ card.rank }}</p>
       </slot>
@@ -11,6 +11,11 @@ export default {
     card: {
       type: Object, Number,
       default: {}
+    }
+  },
+  data () {
+    return {
+      cardOptions: {},
     }
   },
 }

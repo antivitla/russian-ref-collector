@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Collector of reference data from web",
   "main": "index.html",
+  "type": "module",
   "scripts": {
-    "test": "test"
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --watch"
   },
   "repository": {
     "type": "git",
@@ -12,8 +13,13 @@
   },
   "author": "Vitaly Kuleshin <antivitla@yandex.ru>",
   "dependencies": {
-    "@russian-ref/awards": "^1.2.0",
-    "@russian-ref/ranks": "^1.1.0",
+    "@russian-ref/awards": "^1.2.1",
+    "@russian-ref/names": "^1.3.0",
+    "@russian-ref/ranks": "^1.2.1",
+    "@russian-ref/sex": "^2.0.1",
     "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
   }
 }

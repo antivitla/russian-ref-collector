@@ -1,14 +1,17 @@
 // Assume Vue/Pinia loaded earlier by <script>
 import { capitalize } from './utils/common.js';
+import Hero from './utils/hero.js';
+import Library from './utils/library.js';
 import ComponentResourceZmil from './components/zmil/resource.js';
 import ComponentResourceWarheroes from './components/warheroes/resource.js';
 import ComponentResourceTsargrad from './components/tsargrad/resource.js';
 import ComponentResourceKontingent from './components/kontingent/resource.js';
 import ComponentResourceTelegram from './components/telegram/resource.js';
+import ComponentLibrary from './components/library.js';
 
 import ComponentTabs from './components/tabs.js';
 
-const routes = {
+export const Routes = {
   'zmil': { 
     path: '/zmil',
     resourceKey: 'zmil',
@@ -71,6 +74,13 @@ const routes = {
       options: { channel },
     };
   },
+  'library': {
+    resourceKey: 'library',
+    path: '/library',
+    title: 'Библиотека',
+    subtitle: 'heroes.json',
+    component: ComponentLibrary
+  }
 };
 
 function resolveRoute (key, routes) {
@@ -98,14 +108,40 @@ const app = Vue.createApp({
       <component 
         :is="tabs.current.component"
         :resource-key="tabs.current.resourceKey"
-        :options="tabs.current.options">
+        :options="tabs.current.options"
+        @open-modal="handleOpenModal">
       </component>
     </keep-alive>
     <!-- Modal -->
-    
+    <component 
+      :is="modals[0].modal"
+      v-if="modals.length" 
+      v-bind="modals[0].props"
+      @close="handleCloseModal">
+    </component>
   `,
   components: {
     ComponentTabs,
+  },
+  provide () {
+    return {
+      library: new Library({
+        url: 'russian-ref-heroes/heroes.json',
+        createItemCallback (data) {
+          return new Hero(data);
+        },
+        createMapCallback (map, item) {
+          if (!map[item.name]) {
+            map[item.name] = [];
+          }
+          map[item.name].push(item);
+          return map;
+        }
+      }),
+      openModal (options) {
+        console.log('open modal', options);
+      }
+    };
   },
   data () {
     // define initial resources to choose
@@ -117,6 +153,7 @@ const app = Vue.createApp({
       'telegram.mod_russia',
       'telegram.rabotaembrat',
       'telegram.zakharprilepin',
+      'library',
     ];
     // additional resource, dynamically from url
     const currentResourceKey = (location.hash.slice(1) || 'zmil').replace(/^\//, '');
@@ -124,14 +161,15 @@ const app = Vue.createApp({
       resourceKeys.push(currentResourceKey);
     }
     // init tabs data
-    const tabsList = resourceKeys.map(key => Vue.markRaw(resolveRoute(key, routes)));
+    const tabsList = resourceKeys.map(key => Vue.markRaw(resolveRoute(key, Routes)));
     const tabsCurrent = tabsList.find(route => route.resourceKey === currentResourceKey);
 
     return {
       tabs: {
         list: tabsList,
         current: tabsCurrent || tabsList[0],
-      }
+      },
+      modals: []
     };
   },
   watch: {
@@ -151,12 +189,18 @@ const app = Vue.createApp({
   methods: {
     handleHashchange () {
       const resourceKey = (location.hash.slice(1) || 'zmil').replace(/^\//, '');
-      const resource = Vue.markRaw(resolveRoute(resourceKey, routes));
+      const resource = Vue.markRaw(resolveRoute(resourceKey, Routes));
       if (this.tabs.list.find(item => item.resourceKey === resource.resourceKey)) {
         this.tabs.current = resource;
       } else {
         this.tabs.list.push(resource);
       }
+    },
+    handleOpenModal ({ modal, props }) {
+      this.modals.unshift({ modal, props });
+    },
+    handleCloseModal () {
+      this.modals.shift();
     }
   }
 }).mount('body');

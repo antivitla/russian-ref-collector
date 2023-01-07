@@ -1,0 +1,3 @@
+[submodule "src/russian-ref-heroes"]
+	path = src/russian-ref-heroes
+	url = git@github.com:antivitla/russian-ref-heroes.git

@@ -1,5 +1,6 @@
-import { capitalize } from '../utils/common.js';
+import { capitalize, clone } from '../utils/common.js';
 import { AsyncPageable } from '../utils/pageable.js';
+import Hero from '../utils/hero.js';
 import { 
   saveLocalDocument,
   getLocalDocument,
@@ -42,8 +43,8 @@ export default {
         v-if="cards.length"
         class="resource-cards"
         :cards="cards">
-        <template #card="{ card }">
-          <slot name="card" :card="card">Заглушка карточки на уроне resource.js</slot>
+        <template #card="{ card, cardOptions }">
+          <slot name="card" :card="card" :card-options="cardOptions">Заглушка карточки на уроне resource.js</slot>
         </template>
       </component-cards>
       <div v-else-if="actionsProgress.active"><em>Грузим...</em></div>
@@ -137,7 +138,16 @@ export default {
   methods: {
     async handleResourceAction (action) {
       this.displayActionsProgress.active = true;
-      await this[action]();
+      if (this[action]) {
+        await this[action]();
+      } else if (this.resourceActions?.length) {
+        const externalAction = this.resourceActions.find(item => item.key === action);
+        if (externalAction) {
+          await externalAction.command();
+        }
+      } else {
+        console.warn('Неизвестное действие', action);
+      }
       this.displayActionsProgress.active = false;
     },
     async handlePaginationAction (action) {
@@ -162,7 +172,8 @@ export default {
         index,
         asyncMapInfo: this.getRemoteInfo.bind(this)
       });
-      this.cards = await getLocalDocument(this.cacheUrls.cards, 'json', true);
+      const cards = await getLocalDocument(this.cacheUrls.cards, 'json', true);
+      this.cards = cards.map(card => new Hero(card));
     },
     async toCache (only) {
       if (!only || only.match('pageable')) {
