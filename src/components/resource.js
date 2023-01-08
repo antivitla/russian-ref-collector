@@ -43,8 +43,8 @@ export default {
         v-if="cards.length"
         class="resource-cards"
         :cards="cards">
-        <template #card="{ card, cardOptions }">
-          <slot name="card" :card="card" :card-options="cardOptions">Заглушка карточки на уроне resource.js</slot>
+        <template #card="{ card }">
+          <slot name="card" :card="card">Заглушка карточки на уроне resource.js</slot>
         </template>
       </component-cards>
       <div v-else-if="actionsProgress.active"><em>Грузим...</em></div>

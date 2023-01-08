@@ -5,9 +5,7 @@ import {
   getRemoteDocument,
   getRootFragment,
 } from '../../utils/resource.js';
-import ComponentCardHeroAwards from '../card-hero-awards.js';
-import ComponentCardHeroImage from '../card-hero-image.js';
-import ComponentToggleExpandCollapse from '../toggle-expand-collapse.js';
+import ComponentCardHero from '../card-hero.js';
 import ComponentResource from '../resource.js';
 
 export default {
@@ -22,42 +20,13 @@ export default {
       <template #header>Интернет-проект «Герои России» <a href="https://warheroes.ru" target="_blank">↗</a></template>
 
       <!-- Схема карточки -->
-      <template #card="{ card, cardOptions }">
-        <header class="card-hero-header" :class="{ 
-          'show-details': cardOptions.showDetails
-        }">
-          <component-card-hero-image 
-            :src="card.getPhoto('warheroes')" 
-            position="top">
-          </component-card-hero-image>
-          <div class="card-hero-info">
-            <h3 class="card-hero-info__name">
-              <span>{{ card.name }}</span>
-              <span 
-                class="card-hero-info__fallen" 
-                title="Погиб. Вечная память герою"
-                v-if="card.fallen">
-              </span>
-            </h3>
-            <div class="card-hero-info__rank">{{ card.rank }}</div>
-            <component-card-hero-awards :awards="card.awards"></component-card-hero-awards>
-          </div>
-          <component-toggle-expand-collapse
-            class="card-details-toggle"
-            position="bottom right" 
-            v-model="cardOptions.showDetails">
-          </component-toggle-expand-collapse>
-        </header>
-        <section class="card-hero-story" v-if="cardOptions.showDetails">
-          <div class="card-hero-story pre-line">{{ card.getStory('warheroes') }}</div>
-        </section>
+      <template #card="{ card }">
+        <component-card-hero :card="card" resource-key="warheroes" />
       </template>
     </ComponentResource>
   `,
   components: {
-    ComponentCardHeroAwards,
-    ComponentCardHeroImage,
-    ComponentToggleExpandCollapse,
+    ComponentCardHero,
     ComponentResource,
   },
   data () {

@@ -6,8 +6,8 @@ export default {
       <component-card 
         v-for="card in cards" 
         :card="card">
-        <template #card="{ card, cardOptions }">
-          <slot name="card" :card="card" :card-options="cardOptions">Заглушка карточки на уроне cards.js</slot>
+        <template #card="{ card }">
+          <slot name="card" :card="card">Заглушка карточки на уроне cards.js</slot>
         </template>
       </component-card>
     </ul>

@@ -1,11 +1,8 @@
 import Ranks from '../node_modules/@russian-ref/ranks/ranks.js';
 import { Pageable } from '../utils/pageable.js';
 import ComponentCards from './cards.js';
-import ComponentCardHeroAwards from './card-hero-awards.js';
-import ComponentCardHeroImage from './card-hero-image.js';
+import ComponentLibraryCardHero from './library-card-hero.js';
 import ComponentPagination from './pagination.js';
-import ComponentToggleExpandCollapse from './toggle-expand-collapse.js';
-import { Routes } from '../app.js';
 
 export default {
   template: /* html */`
@@ -52,47 +49,8 @@ export default {
         v-if="cards?.length"
         class="resource-cards"
         :cards="cards">
-        <template #card="{ card, cardOptions }">
-          <header class="card-hero-header" style="margin-bottom: 0">
-            <div class="card-hero-info">
-              <h3 class="card-hero-info__name">
-                <span>{{ card.name }}</span>
-                <span 
-                  class="card-hero-info__fallen" 
-                  title="Погиб. Вечная память герою"
-                  v-if="card.fallen">
-                </span>
-              </h3>
-              <div class="card-hero-info__rank">{{ card.rank }}</div>
-              <component-card-hero-awards :awards="card.awards"></component-card-hero-awards>
-            </div>
-          </header>
-          <section class="card-hero-resource" v-for="(resource, key) in card.resources">
-
-            <div 
-              class="card-hero-resource__toggle" 
-              @click="cardOptions[key + 'ShowDetails'] = !cardOptions[key + 'ShowDetails']">
-              <div>{{ getResourceTitle(key) }}</div>
-              <component-toggle-expand-collapse
-                position="top right" 
-                v-model="cardOptions[key + 'ShowDetails']">
-              </component-toggle-expand-collapse>
-            </div>
-
-            <div 
-              v-if="cardOptions[key + 'ShowDetails']" 
-              class="card-hero-resource__details">
-
-              <component-card-hero-image 
-                :src="card.getPhoto(key)" 
-                position="top">
-              </component-card-hero-image>
-
-              <div v-html="getCardStoryHtml(card, key)"></div>
-
-              <div>&nbsp;</div>
-            </div>
-          </section>
+        <template #card="{ card }">
+          <component-library-card-hero :card="card" />
         </template>
       </component-cards>
 
@@ -109,10 +67,8 @@ export default {
   inject: ['library'],
   components: {
     ComponentCards,
-    ComponentCardHeroAwards,
-    ComponentCardHeroImage,
+    ComponentLibraryCardHero,
     ComponentPagination,
-    ComponentToggleExpandCollapse,
   },
   data () {
     return {
@@ -198,16 +154,5 @@ export default {
         }
       });
     },
-    getResourceTitle (key) {
-      const titles = {
-        ancestor: '#ПредковДостойны',
-        'telegram.mod_russia': 'Телеграм минобороны РФ',
-      };
-      return titles[key] || Routes[key]?.title || key;
-    },
-    getCardStoryHtml (card, key) {
-      let resourceKey = key.match(/\./) ? key.split('.')[1] : key;
-      return card.getStoryHtml(resourceKey);
-    }
   }
 };
