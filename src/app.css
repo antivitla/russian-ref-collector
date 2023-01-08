@@ -121,6 +121,10 @@ h2 a {
   color: var(--color-app-text-muted);
 }
 
+.mb-0 {
+  margin-bottom: 0 !important;
+}
+
 
 /* Tabs */
 
@@ -421,11 +425,11 @@ select {
   margin-bottom: 0.25rem;
 }
 
-.card-hero-info__fallen {
+.card-hero-fallen {
   cursor: help;
 }
 
-.card-hero-info__fallen:before {
+.card-hero-fallen:before {
   content: ' 🔥';
   filter: grayscale(0.25);
 }
